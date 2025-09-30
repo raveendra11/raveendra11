@@ -101,16 +101,23 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 </p>
 
 ---
-
 ## 🤝 Connect with Me  
+
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/raveendra-eleven)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/raveendra11)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=githubpages&logoColor=white)](https://raveendra11.github.io/portfolio)  
-[![Resume](https://img.shields.io/badge/Resume-0A66C2?logo=googledocs&logoColor=white)](https://github.com/raveendra11/portfolio/raw/main/assets/Raveendra_Pujari_Resume_Dec26.pdf)
-
-
+  <a href="https://linkedin.com/in/raveendra-eleven">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/raveendra11">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://raveendra11.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/raveendra11/portfolio/raw/main/assets/Raveendra_Pujari_Resume_Dec26.pdf">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?logo=googledocs&logoColor=white" alt="Resume"/>
+  </a>
 </p>
+
 ---
 
 <p align="center">
