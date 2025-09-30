@@ -107,7 +107,7 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/raveendra-eleven)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/raveendra11)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=githubpages&logoColor=white)](https://raveendra11.github.io/portfolio)  
-
+</p>
 ---
 
 <p align="center">
