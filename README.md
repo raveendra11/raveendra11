@@ -1,4 +1,4 @@
-# Hi, I'm Raveendra Pujari  
+# Hello 🙋🏻‍♂️, I'm Raveendra Pujari  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Google+Cloud+Certified+Architect+%26+DevOps;Open+Source+Contributor+%7C+Apache+Projects;Always+Learning+%26+Building+Meaningful+Solutions" alt="Typing Animation" />
@@ -6,15 +6,15 @@
 
 ---
 
-## 👦 About Me  
-I’m a **Java Backend Developer** passionate about building **scalable, secure, and cloud-native applications**.  
+## 🥷 About Me  
+I’m a **Java and Cloud Developer** passionate about building **scalable, secure, and cloud-native applications**.  
 
-- 🎓 Master’s in *Computer Science*.  
-- 💻 **3+ years professional experience** at **Infosys** & **Capgemini**.  
+- 🎓 Pursuing Master’s in *Computer Science*.  
+- 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
 - ☁️ **Google Cloud Certified** – Architect, DevOps Engineer, Associate Engineer, Digital Leader.  
-- 🛠️ Hands-on with **Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
-- 💡 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
-- 🌱 Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
+- 🧑🏻‍💻 Hands-on with **Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
+- 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
+- 🗪 Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
 
 ---
 
@@ -37,7 +37,7 @@ I’m a **Java Backend Developer** passionate about building **scalable, secure,
 
 ---
 
-## 🛠️ Technical Skills  
+## ⚔️ Technical Skills  
 
 - **Languages:** Java, SQL, Python (Basics), Shell  
 - **Backend:** Spring Boot, Microservices, Hibernate/JPA, REST APIs, Spring Security  
@@ -49,7 +49,7 @@ I’m a **Java Backend Developer** passionate about building **scalable, secure,
 
 ---
 
-## 🌟 Featured Project  
+## 🏷️ Featured Project  
 
 ### [doGood](https://wedogood.help) — *Charity Donation Platform*  
 > Empowering people to donate goods (clothes, books, food) instead of money.  
@@ -73,11 +73,11 @@ I’m a **Java Backend Developer** passionate about building **scalable, secure,
 
 ## 📜 Certifications  
 
-- 🏆 Google Cloud **Professional Cloud Architect**  
-- 🏆 Google Cloud **Professional Cloud DevOps Engineer**  
-- 🏆 Google Cloud **Associate Cloud Engineer**  
-- 🏆 Google Cloud **Digital Leader**  
-- 🏆 MuleSoft **Certified Developer – L1**  
+- ✅ Google Cloud **Professional Cloud Architect**  
+- ✅ Google Cloud **Professional Cloud DevOps Engineer**  
+- ✅ Google Cloud **Associate Cloud Engineer**  
+- ✅ Google Cloud **Digital Leader**  
+- ✅ MuleSoft **Certified Developer – L1**  
 
 ---
 
@@ -103,11 +103,14 @@ I’m a **Java Backend Developer** passionate about building **scalable, secure,
 ---
 
 ## 🤝 Connect with Me  
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/raveendra-eleven)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/raveendra11)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=githubpages&logoColor=white)](https://raveendra11.github.io/portfolio)  
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?logo=googledocs&logoColor=white)](https://github.com/raveendra11/portfolio/raw/main/assets/Raveendra_Pujari_Resume_Dec26.pdf)
 
+
+</p>
 ---
 
 <p align="center">
