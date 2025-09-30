@@ -93,14 +93,6 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 </p>
 
 ---
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raveendra11&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 ## 🤝 Connect with Me  
 
 <p align="center">
