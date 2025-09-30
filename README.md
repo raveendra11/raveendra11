@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me  
+## 👦 About Me  
 I’m a **Java Backend Developer** passionate about building **scalable, secure, and cloud-native applications**.  
 
 - 🎓 Master’s in *Computer Science*.  
