@@ -107,8 +107,10 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
   <a href="https://www.linkedin.com/in/raveendra-eleven/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/raveendra11"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" /></a>
   <a href="https://raveendra11.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff5722?logo=firefox&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/raveendra11/portfolio/raw/main/assets/Raveendra_Pujari_Resume_Dec26.pdf"><img src="https://img.shields.io/badge/Resume-0A66C2?logo=googledocs&logoColor=white&style=for-the-badge" />
+  <a href="https://github.com/raveendra11/portfolio/blob/main/assets/Raveendra_Pujari_Resume_Dec26.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-0A66C2?logo=googledocs&logoColor=white&style=for-the-badge" />
 </a>
+
 
 </p>
 
