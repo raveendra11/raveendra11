@@ -9,12 +9,12 @@
 ## 🥷 About Me  
 I’m a **Java and Cloud Developer** passionate about building **scalable, secure, and cloud-native applications**.  
 
-- 🎓 Pursuing Master’s in *Computer Science*.  
-- 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
-- ☁️ **Google Cloud Certified** – Architect, DevOps Engineer, Associate Engineer, Digital Leader.  
-- 🧑🏻‍💻 Hands-on with **Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
-- 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
-- 🗪 Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
+🎓 Pursuing Master’s in *Computer Science*.  
+🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
+☁️ **Google Cloud Certified** – Architect, DevOps Engineer, Associate Engineer, Digital Leader.  
+🧑🏻‍💻 Hands-on with **Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
+🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
+🗪  Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
 
 ---
 
@@ -54,10 +54,10 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 ### [doGood](https://wedogood.help) — *Charity Donation Platform*  
 > Empowering people to donate goods (clothes, books, food) instead of money.  
 
-- 🔹 **Backend:** Spring Boot (REST APIs)  
-- 🔹 **Frontend:** React.js  
-- 🔹 **Database:** MySQL  
-- 🔹 **Deployment:** Google Cloud Platform (Cloud Run + Cloud SQL)  
+ 🔹 **Backend:** Spring Boot (REST APIs)  
+ 🔹 **Frontend:** React.js  
+ 🔹 **Database:** MySQL  
+ 🔹 **Deployment:** Google Cloud Platform (Cloud Run + Cloud SQL)  
 
 📂 Code: [Backend Repo](https://github.com/raveendra11/doGood) | [Frontend Repo](https://github.com/raveendra11/doGood-web)  
 
@@ -65,19 +65,19 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 
 ## 🏆 Awards & Achievements  
 
-- 🏅 **Outstanding Contribution in Delivery** – Capgemini  
-- 🌟 **WOW Award** – Capgemini (*Hughes client*)  
-- 🥇 **Red Hat Drive Winner** – Infosys (highest certification badges)  
+ 🏅 **Outstanding Contribution in Delivery** – Capgemini  
+ 🌟 **WOW Award** – Capgemini (*Hughes client*)  
+ 🥇 **Red Hat Drive Winner** – Infosys (highest certification badges)  
 
 ---
 
 ## 📜 Certifications  
 
-- ✅ Google Cloud **Professional Cloud Architect**  
-- ✅ Google Cloud **Professional Cloud DevOps Engineer**  
-- ✅ Google Cloud **Associate Cloud Engineer**  
-- ✅ Google Cloud **Digital Leader**  
-- ✅ MuleSoft **Certified Developer – L1**  
+ ✅ Google Cloud **Professional Cloud Architect**  
+ ✅ Google Cloud **Professional Cloud DevOps Engineer**  
+ ✅ Google Cloud **Associate Cloud Engineer**  
+ ✅ Google Cloud **Digital Leader**  
+ ✅ MuleSoft **Certified Developer – L1**  
 
 ---
 
