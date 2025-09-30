@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raveendra Pujari  
+# Hi, I'm Raveendra Pujari  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Google+Cloud+Certified+Architect+%26+DevOps;Open+Source+Contributor+%7C+Apache+Projects;Always+Learning+%26+Building+Meaningful+Solutions" alt="Typing Animation" />
@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 I’m a **Java Backend Developer** passionate about building **scalable, secure, and cloud-native applications**.  
 
-- 🎓 Master’s in *Computer Science* (University of South Dakota, GPA 3.8/4).  
+- 🎓 Master’s in *Computer Science*.  
 - 💻 **3+ years professional experience** at **Infosys** & **Capgemini**.  
 - ☁️ **Google Cloud Certified** – Architect, DevOps Engineer, Associate Engineer, Digital Leader.  
 - 🛠️ Hands-on with **Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
