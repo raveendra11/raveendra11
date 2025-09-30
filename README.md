@@ -1,4 +1,4 @@
-# Hello 🙋🏻‍♂️, I'm Raveendra Pujari  
+# Hello, I'm Raveendra Pujari  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Google+Cloud+Certified+Architect+%26+DevOps;Open+Source+Contributor+%7C+Apache+Projects;Always+Learning+%26+Building+Meaningful+Solutions" alt="Typing Animation" />
