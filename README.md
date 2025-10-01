@@ -51,8 +51,8 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 
 ## 🏷️ Featured Project  
 
-### [doGood](https://wedogood.help) — *Charity Donation Platform*  
-> Empowering people to donate goods (clothes, books, food) instead of money.  
+### [doGood](https://wedogood.help) — *Charity Platform*  
+> doGood is a personal project for charity, aimed at supporting orphan children and elders by fellow friends. The platform is designed to simplify and encourage donations of goods like clothes, food, and books rather than money. Currently, the project is under active development.
 
  🔹 **Backend:** Spring Boot (REST APIs)  
  🔹 **Frontend:** React.js  
