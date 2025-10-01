@@ -14,7 +14,7 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 ☁️ **Google Cloud Certified** – Architect, DevOps Engineer, Associate Engineer, Digital Leader.  
 🧑🏻‍💻 Hands-on with **Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
-‪‪❤︎‬‬  Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
+‪‪❤️ Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
 
 ---
 
