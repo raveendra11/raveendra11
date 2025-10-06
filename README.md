@@ -82,12 +82,13 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raveendra11&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raveendra11&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendra11&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
 
 ---
 ## 🤝 Connect with Me  
