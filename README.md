@@ -82,7 +82,7 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raveendra11&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight" height="160"/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raveendra11&theme=aura_dark)
 </p>
 
 <p align="center">
