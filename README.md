@@ -82,7 +82,7 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raveendra11&show_icons=true&theme=tokyonight" height="160"/>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raveendra11&theme=aura_dark)
+ <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
@@ -93,11 +93,20 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
 
 ### 📊 GitHub Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raveendra11&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raveendra11&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raveendra11&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raveendra11&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raveendra11&theme=aura_dark)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raveendra11&theme=aura_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raveendra11&theme=aura_dark" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raveendra11&theme=aura_dark" height="180"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raveendra11&theme=aura_dark" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raveendra11&theme=aura_dark" height="180"/>
+</p>
+
 
 
 ---
