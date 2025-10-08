@@ -89,6 +89,16 @@ I’m a **Java and Cloud Developer** passionate about building **scalable, secur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendra11&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+---
+
+### 📊 GitHub Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raveendra11&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raveendra11&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raveendra11&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raveendra11&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raveendra11&theme=aura_dark)
+
 
 ---
 ## 🤝 Connect with Me  
