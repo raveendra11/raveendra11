@@ -4,7 +4,7 @@
 ---
 
 ## 🥷 About Me  
-I’m a **Java and Cloud Developer** passionate about building **scalable, secure, and cloud-native applications**.  
+I’m a **Software and CloudDevOps Developer** passionate about building **scalable, secure, and cloud-native applications**.  
 
 🎓 Pursuing Master’s in *Computer Science*.  
 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
