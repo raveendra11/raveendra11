@@ -9,7 +9,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 🎓 Pursuing Master’s in *Computer Science*.  
 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
 ☁️ **Google Cloud Certified** – Architect, DevOps Engineer, Associate Engineer, Digital Leader.  
-🧑🏻‍💻 Hands-on with **Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
+🧑🏻‍💻 Hands-on with **Java, Spring Boot, REST APIs, CI/CD, Docker, Kubernetes, Terraform**.  
 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
 ‪‪❤️ Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
 
@@ -55,8 +55,6 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
  🔹 **Frontend:** React.js  
  🔹 **Database:** MySQL  
  🔹 **Deployment:** Google Cloud Platform (Cloud Run + Cloud SQL)  
-
-📂 Code: [Backend Repo](https://github.com/raveendra11/doGood) | [Frontend Repo](https://github.com/raveendra11/doGood-web)  
 
 ---
 
