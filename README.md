@@ -91,7 +91,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
  
 ---
 
-## 🔌 Connect with Me  
+## 🔌Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raveendra-eleven/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
