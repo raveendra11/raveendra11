@@ -7,10 +7,15 @@
 I’m a **Software and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
 
 🎓 Pursuing Master’s in *Computer Science*.  
+
 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
+
 ☁️ **Google Cloud Certified** – Architect, DevOps Engineer, Associate Engineer, Digital Leader.  
+
 🧑🏻‍💻 Hands-on with **Java, Spring Boot, REST APIs, CI/CD, Jenkins, Docker, Kubernetes, Terraform**.  
+
 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
+
 ‪‪❤️ Passionate about leveraging tech for social impact → built **[doGood](https://wedogood.help)** charity platform.  
 
 ---
