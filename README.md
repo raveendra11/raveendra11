@@ -45,7 +45,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 ## 🕵️‍♂️ Technical Skills  
 
-- **Languages:** Java, SQL, Python (Basics), Shell  
+- **Languages:** Java, C, Shell  
 - **Backend:** Spring Boot, Microservices, Hibernate/JPA, REST APIs, Spring Security  
 - **Frontend:** React.js, HTML, CSS, JavaScript (Basics)  
 - **Databases:** MySQL, Oracle, MongoDB  
