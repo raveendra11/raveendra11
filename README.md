@@ -32,13 +32,9 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 **Capgemini** — *Associate II – Software Engineer* (Aug 2021 – Oct 2023)  
 - Designed and developed billing & invoicing REST APIs for telecom client Hughes, enabling real-time account and subscription management.
-
 - Automated backend operations using Shell scripts + cron jobs, reducing manual intervention by 40 %.
-
 - Delivered new features through GCP CI/CD pipelines (**Cloud Build, Cloud Deploy**) and ensured smooth deployment across Spring Boot **microservices**.
-
 - Managed containerized workloads on **Kubernetes (GKE)** and optimized connectivity with **Load Balancers, VPCs, and IAM**.
-
 - Participated in **Agile** sprints for requirement analysis and testing, improving delivery timelines and system reliability.
 
 **Open Source Developer (GitHub)** — Apache Projects  
