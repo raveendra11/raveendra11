@@ -24,15 +24,10 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 **Infosys** — *Senior System Engineer* (Apr 2024 – Jan 2025)  
 - Designed and maintained **REST APIs** powering Verizon chatbot platforms, ensuring modularity and seamless integration with backend systems.
-
 - Enhanced chatbot performance, improving response accuracy, error handling, and scalability.
-
 - Deployed and monitored services on **Google Cloud Platform** (App Engine, Cloud Storage) with proactive issue detection via **Cloud Monitoring and Logging**.
-
 - Built and maintained **CI/CD pipelines** using Cloud Build & Cloud Deploy, boosting deployment reliability and speed.
-
 - Achieved 85 %+ unit test coverage with **JUnit 5** and contributed to peer code reviews to ensure high-quality releases.
-
 - Improved overall system performance through instance tuning, IAM configuration, and **shell scripting** automation. 
 
 **Capgemini** — *Associate II – Software Engineer* (Aug 2021 – Oct 2023)  
