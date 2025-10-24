@@ -18,15 +18,28 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 ## 💼 Experience  
 
 **Infosys** — *Senior System Engineer* (Apr 2024 – Jan 2025)  
-- Designed & maintained **REST APIs** powering **Verizon Chatbots**.  
-- Improved bot performance, error handling, and modular scalability.  
-- Achieved **85%+ unit test coverage** with JUnit5.  
+- Designed and maintained REST APIs powering Verizon chatbot platforms, ensuring modularity and seamless integration with backend systems.
+
+- Enhanced chatbot performance, improving response accuracy, error handling, and scalability.
+
+- Deployed and monitored services on Google Cloud Platform (App Engine, Cloud Storage) with proactive issue detection via Cloud Monitoring and Logging.
+
+- Built and maintained CI/CD pipelines using Cloud Build & Cloud Deploy, boosting deployment reliability and speed.
+
+- Achieved 85 %+ unit test coverage with JUnit 5 and contributed to peer code reviews to ensure high-quality releases.
+
+- Improved overall system performance through instance tuning, IAM configuration, and shell scripting automation. 
 
 **Capgemini** — *Associate II – Software Engineer* (Aug 2021 – Oct 2023)  
-- Built **billing & invoicing APIs** for telecom client (Hughes).  
-- Automated manual tasks via **Shell scripts & cron jobs** → saved **40% effort**.  
-- Delivered features using **CI/CD pipelines on GCP** (Cloud Build, Cloud Deploy).  
-- Ensured seamless integration across **Spring Boot microservices**.  
+- Designed and developed billing & invoicing REST APIs for telecom client Hughes, enabling real-time account and subscription management.
+
+- Automated backend operations using Shell scripts + cron jobs, reducing manual intervention by 40 %.
+
+- Delivered new features through GCP CI/CD pipelines (Cloud Build, Cloud Deploy) and ensured smooth deployment across Spring Boot microservices.
+
+- Managed containerized workloads on Kubernetes (GKE) and optimized connectivity with Load Balancers, VPCs, and IAM.
+
+- Participated in Agile sprints for requirement analysis and testing, improving delivery timelines and system reliability.
 
 **Open Source Developer (GitHub)** — Apache Projects  
 - Contributed bug fixes, refactoring, and docs to **Gravitino, Iceberg, Sedona**.  
