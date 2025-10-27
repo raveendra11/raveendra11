@@ -38,8 +38,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 - Participated in **Agile** sprints for requirement analysis and testing, improving delivery timelines and system reliability.
 
 **Open Source Developer (GitHub)** — Apache Projects  
-- Contributed bug fixes, refactoring, and docs to **Gravitino, Iceberg, Sedona**.  
-- Strengthened ecosystem stability & usability.  
+- Contributed bug fixes, refactoring, and docs to **Gravitino, Iceberg, Sedona**.
 
 ---
 
