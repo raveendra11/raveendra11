@@ -6,7 +6,7 @@
 ## 🥷 About Me  
 I’m a **Software and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
 
-🎓 Pursuing Master’s in *Computer Science*.  
+🎓 Pursuing Master’s in *Computer Science* @ University of South Dakota.  
 
 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
 
