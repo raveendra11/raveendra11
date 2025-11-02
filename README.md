@@ -44,9 +44,9 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 ## 🕵️‍♂️ Technical Skills  
 
-- **Languages:** Java, C, Shell  
-- **Backend:** Spring Boot, Microservices, Hibernate/JPA, REST APIs, Spring Security  
-- **Frontend:** React.js, HTML, CSS, JavaScript (Basics)  
+- **Languages:** Java, C, Shell Scripting.  
+- **Backend:** Spring, Spring Boot, Spring MVC, Microservices.
+- **Frontend:** HTML, CSS, JavaScript, React(Basics)  
 - **Databases:** MySQL, Oracle, MongoDB  
 - **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes (GKE), Jenkins, Terraform  
 - **Tools:** Git, GitHub, GitLab, Bitbucket, Maven, Postman, SoapUI, IntelliJ, VS Code, Eclipse  
