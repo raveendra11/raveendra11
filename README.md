@@ -90,7 +90,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raveendra11&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
- ![Trophies](https://github-profile-trophy.vercel.app/?username=raveendra11&theme=tokyonight&no-frame=true)
+ <img src="https://github-profile-trophy.vercel.app/?username=raveendra11&theme=tokyonight&no-frame=true" height="160"/>
 
 </p>
 
