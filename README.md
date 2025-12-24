@@ -68,8 +68,8 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 ## 🏆 Awards & Achievements  
 
- 🏅 **Outstanding Contribution in Delivery** – Capgemini  [↗️](https://www.credential.net/3a90d821-cbca-4e40-8907-560f2818674c?username=raveendrapujari305208)
- 🌟 **WOW Award** – Capgemini (*Hughes client*)  [↗️](https://www.credential.net/7bd9ca29-344a-49ae-9557-1d050535f798?username=raveendrapujari305208)
+ 🏅 **Outstanding Contribution in Delivery** – Capgemini  [↗️](https://www.credential.net/3a90d821-cbca-4e40-8907-560f2818674c?username=raveendrapujari305208) <br>
+ 🌟 **WOW Award** – Capgemini (*Hughes client*)  [↗️](https://www.credential.net/7bd9ca29-344a-49ae-9557-1d050535f798?username=raveendrapujari305208) <br>
  🥇 **Red Hat Drive Winner** – Infosys (highest certification badges)  [↗️](https://www.credly.com/users/raveendra11/badges##credly)
 
 ---
