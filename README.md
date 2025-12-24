@@ -77,7 +77,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 ## 📜 Certifications  
 
  🔄 Google Cloud **Professional Cloud Security Engineer**  
- ✅ Google Cloud **Generative AI Leader** 🆕
+ ✅ Google Cloud **Generative AI Leader**🆕 
  ✅ Google Cloud **Professional Cloud Architect**  
  ✅ Google Cloud **Professional Cloud DevOps Engineer**  
  ✅ Google Cloud **Associate Cloud Engineer**  
