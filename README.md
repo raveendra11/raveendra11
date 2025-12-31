@@ -76,8 +76,8 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 ## 📜 Certifications  
 
- 🔄 Google Cloud Professional Cloud Security Engineer  <br>
  ✅ Google Cloud Generative AI Leader🆕 [📄](https://www.credential.net/bd8863f3-9589-478c-9a57-20454ff8a515?username=raveendra11) <br> 
+ ✅ Google Cloud Professional Cloud Security Engineer 🆕  <br> 
  ✅ Google Cloud Professional Cloud Architect [📄](https://www.credential.net/6f1ac027-f41e-46dd-92de-1e250b012aa5?username=raveendra11) <br> 
  ✅ Google Cloud Professional Cloud DevOps Engineer [📄](https://www.credential.net/1e39dddb-857a-4c74-9796-34f1861acf9e?username=raveendra11) <br>
  ✅ Google Cloud Associate Cloud Engineer [📄](https://www.credential.net/4671ab69-e451-4aa1-82d3-5de784e297db?username=raveendra11) <br> 
