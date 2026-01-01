@@ -10,7 +10,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
 
-☁️ **Google Cloud Certified** **6x** – Architect, DevOps Engineer, Security, Associate Engineer, GenAI, Digital Leader.  
+☁️ **Google Cloud Professional Certified Engineer** – Architect, DevOps Engineer, Security, Associate Engineer, GenAI, Digital Leader.  
 
 🧑🏻‍💻 Hands-on with **Java, Spring Boot, REST APIs, CI/CD, Jenkins, Docker, Kubernetes, Terraform**.  
 
