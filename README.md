@@ -12,7 +12,7 @@ I’m a **Software and Cloud DevOps Engineer** passionate about building **scala
 
 ☁️ **Google Cloud Professional Certified Engineer** – Architect, DevOps Engineer, Security, Associate Engineer, GenAI, Digital Leader.  
 
-🧑🏻‍💻 Hands-on with **Java, Spring Boot, REST APIs, CI/CD, Jenkins, Docker, Kubernetes, Terraform**.  
+🧑🏻‍💻 Hands-on with **Java, Spring Boot, REST APIs, CI/CD, Jenkins, Google Cloud Platform, Docker, Kubernetes, Terraform**.  
 
 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
 
