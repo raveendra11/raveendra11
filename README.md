@@ -4,7 +4,7 @@
 ---
 
 ## 🥷 About Me  
-I’m a **Software and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
+I’m a **Java and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
 
 🎓 Pursuing Master’s in *Computer Science* @ University of South Dakota.  
 
