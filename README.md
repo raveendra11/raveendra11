@@ -90,18 +90,12 @@ I’m a **Java and Cloud DevOps Engineer** passionate about building **scalable,
  ### 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raveendra11&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
-<!--  <img src="https://streak-stats.demolab.com?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=raveendra11&amp;theme=tokyonight&amp;hide_border=true" /> -->
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raveendra11&theme=tokyonight" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raveendra11&theme=tokyonight" height="180"/>
   
+  <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
 
 </p>
+
+
 
  
 ---
