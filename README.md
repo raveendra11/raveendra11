@@ -91,8 +91,8 @@ I’m a **Java and Cloud DevOps Engineer** passionate about building **scalable,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raveendra11&show_icons=true&theme=tokyonight" height="160"/>
-<!--  <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
+<!--  <img src="https://streak-stats.demolab.com?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=raveendra11&amp;theme=tokyonight&amp;hide_border=true" /> -->
 </p>
 
