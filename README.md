@@ -64,7 +64,7 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 > doGood is a personal project for charity, aimed at supporting orphan children and elders by fellow friends. The platform is designed to simplify and encourage donations of goods like clothes, food, and books rather than money. Currently, the project is under active development.
 
  🔹 **Backend:** Spring Boot (REST APIs)  
- 🔹 **Frontend:** React.js (using Vibe coding) 
+ 🔹 **Frontend:** React.js (using Vibe coding)  
  🔹 **Database:** MySQL  
  🔹 **Deployment:** Google Cloud Platform (Cloud Run + Cloud SQL)  
 
