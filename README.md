@@ -27,19 +27,25 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 ## 💼 Experience  
 
 **Infosys** — *Senior System Engineer* (Apr 2024 – Jan 2025)  
-- Developed and maintained **REST APIs** powering Verizon chatbot platforms, ensuring modularity and seamless integration with backend systems.
-- Enhanced chatbot performance, improving response accuracy, error handling, and scalability.
-- Deployed and monitored services on **Google Cloud Platform** (App Engine, Cloud Storage) with proactive issue detection via **Cloud Monitoring and Logging**.
-- Built and maintained **CI/CD pipelines** using Cloud Build & Cloud Deploy, boosting deployment reliability and speed.
-- Achieved 85 %+ unit test coverage with **JUnit 5** and contributed to peer code reviews to ensure high-quality releases.
-- Improved overall system performance through instance tuning, IAM configuration, and **shell scripting** automation. 
+- Deployed chatbot services on Google Cloud Platform (GCP) using App Engine and Cloud Storage.
+- Automated CI/CD pipelines using Cloud Build and Cloud Deploy, improving release frequency and deployment reliability.
+- Configured and managed IAM roles, service accounts, and permissions to ensure secure access and compliance.
+- Implemented monitoring, logging, and alerting using Cloud Monitoring, Cloud Logging, and Cloud Trace, enabling proactive
+issue detection and system stability.
+- Optimized application performance and resource utilization on App Engine by tuning instance scaling settings and storage usage.
+- Enhanced operational efficiency through Shell scripting for repetitive deployment and maintenance tasks. 
 
 **Capgemini** — *Associate II – Software Engineer* (Aug 2021 – Oct 2023)  
-- Designed and developed billing & invoicing REST APIs for telecom client Hughes, enabling real-time account and subscription management.
-- Automated backend operations using Shell scripts + cron jobs, reducing manual intervention by 40 %.
-- Delivered new features through GCP CI/CD pipelines (**Cloud Build, Cloud Deploy**) and ensured smooth deployment across Spring Boot **microservices**.
-- Managed containerized workloads on **Kubernetes (GKE)** and optimized connectivity with **Load Balancers, VPCs, and IAM**.
-- Participated in **Agile** sprints for requirement analysis and testing, improving delivery timelines and system reliability.
+- Worked on CI/CD pipelines using Jenkins and initially deployed applications on OpenShift; later migrated workloads to GCP using
+Cloud Build and Cloud Deploy, enabling automated and reliable deployments.
+- Deployed and managed containerized applications on Kubernetes (GKE) for scalable, highly available, and efficiently orchestrated
+environments.
+- Automated infrastructure provisioning and configuration using Terraform and Ansible, improving scalability, repeatability, and
+reducing configuration drift.
+- Managed cloud resources including Compute Engine, Cloud Storage, VPCs, and Load Balancers for optimized connectivity and
+security.
+- Monitored and maintained production systems with Cloud Monitoring, Logging, and alerting tools, enhancing reliability and uptime.
+- Developed automation scripts in Shell to streamline operational and maintenance tasks, reducing manual effort by 40%.
 
 **Open Source Developer (GitHub)** — Apache Projects  
 - Contributed bug fixes, refactoring, and docs to **Gravitino, Iceberg, Sedona**.
