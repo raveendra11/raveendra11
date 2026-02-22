@@ -27,25 +27,34 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 ## 💼 Experience  
 
 **Infosys** — *Senior System Engineer* (Apr 2024 – Jan 2025)  
-- Deployed chatbot services on **Google Cloud Platform (GCP)** using App Engine and Cloud Storage.
-- Automated **CI/CD pipelines** using **Cloud Build and Cloud Deploy**, improving release frequency and deployment reliability.
-- Configured and managed **IAM roles**, service accounts, and permissions to ensure secure access and compliance.
-- Implemented monitoring, logging, and alerting using **Cloud Monitoring, Cloud Logging, and Cloud Trace**, enabling proactive
-issue detection and system stability.
-- Optimized application performance and resource utilization on **App Engine** by tuning instance scaling settings and storage usage.
-- Enhanced operational efficiency through Shell scripting for repetitive deployment and maintenance tasks. 
+- Streamlined CI/CD pipelines for Java-based applications using Cloud Build and Maven, reducing build and deploy times by 20%.
+- Built and managed Docker images and deployed containerized microservices on Google Kubernetes Engine (GKE) Autopilot,
+ensuring scalable and reliable deployments.
+- Provisioned and managed GCP infrastructure and Kubernetes clusters using Terraform, improving deployment consistency and
+reducing manual configuration.
+- Configured and managed GCP networking including VPC, firewall rules, and HTTP(S) Load Balancers to enable secure and
+scalable application access.
+- Implemented Kubernetes Ingress controllers on GKE Autopilot to securely expose applications and manage external traffic routing.
+- Applied IAM best practices including service accounts and least privilege access to improve infrastructure security.
+- Configured Prometheus and Grafana for monitoring GKE Autopilot workloads, enabling real-time metrics visualization,
+performance analysis, and proactive incident detection.
 
 **Capgemini** — *Associate II – Software Engineer* (Aug 2021 – Oct 2023)  
-- Worked on CI/CD pipelines using **Jenkins** and initially deployed applications on **OpenShift**; later migrated workloads to GCP using
-Cloud Build and Cloud Deploy, enabling automated and reliable deployments.
-- Deployed and managed containerized applications on **Kubernetes (GKE)** for scalable, highly available, and efficiently orchestrated
-environments.
-- Automated infrastructure provisioning and configuration using **Terraform and Ansible**, improving scalability, repeatability, and
+- Worked on CI/CD pipelines using Jenkins and initially deployed applications on OpenShift; later migrated workloads to GCP.
+- Built and managed Docker images and deployed containerized applications on Google Kubernetes Engine (GKE), improving
+deployment consistency and scalability.
+- Automated infrastructure provisioning and configuration using Terraform and Ansible, improving scalability, repeatability, and
 reducing configuration drift.
-- Managed cloud resources including **Compute Engine, Cloud Storage, VPCs,** and **Load Balancers** for optimized connectivity and
-security.
-- Monitored and maintained production systems with Cloud Monitoring, Logging, and alerting tools, enhancing reliability and uptime.
-- Developed automation scripts in **Shell** to streamline operational and maintenance tasks, reducing manual effort by 40%.
+- Configured Kubernetes Ingress controllers and HTTP(S) Load Balancers to enable secure and scalable application access.
+- Worked with GCP networking components including VPC, firewall rules, and secure service connectivity.
+- Maintained Terraform remote backend using Google Cloud Storage, ensuring centralized infrastructure state management.
+- Automated build and deployment workflows using CI/CD pipelines, improving release efficiency and reducing manual effort.
+- Assisted development teams with Docker containerization and deployment of applications on GKE Autopilot.
+- Configured Cloud DNS and integrated domain routing with Load Balancers and Kubernetes services.
+- Monitored infrastructure using Cloud Monitoring and Cloud Logging, helping identify and resolve system issues.
+- Developed automation scripts in Shell to streamline operational and maintenance tasks, reducing manual effort by 40%.
+- Troubleshot infrastructure and deployment issues across cloud and Kubernetes environments, ensuring system stability and
+availability.
 
 **Open Source Developer (GitHub)** — Apache Projects  
 - Contributed bug fixes, refactoring, and docs to **Gravitino, Iceberg, Sedona**.
