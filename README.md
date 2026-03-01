@@ -4,7 +4,7 @@
 ---
 ## 📘 Summary
 
-Hello, my name is Raveendra Pujari. I'm multi skilled in 𝐉𝐚𝐯𝐚 and 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in developing and deploying applications using 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐛𝐨𝐨𝐭 and 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialize in building backend services like 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬 using Java Spring boot and deploying & maintaining applications on 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
+I'm multi skilled in 𝐉𝐚𝐯𝐚 and 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in developing and deploying applications using 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐛𝐨𝐨𝐭 and 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialize in building backend services like 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬 using Java Spring boot and deploying & maintaining applications on 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
 
 I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. Additionally, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
 
@@ -33,7 +33,6 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 **Capgemini** — *Associate II – Software Engineer* (Aug 2021 – Oct 2023)  
 
 **Open Source Developer (GitHub)** — Apache Projects  
-- Contributed bug fixes, refactoring, and docs to **Gravitino, Iceberg, Sedona**.
 
 ---
 
