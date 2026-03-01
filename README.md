@@ -12,7 +12,7 @@ I’m passionate about continuous learning and staying up to date with the lates
 
 Thank you!
 
-## 📘 On me 
+## 📘 On Me 
 
 I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
 
