@@ -31,7 +31,9 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 ## 🏆 Awards & Achievements  
 
  🏅 **Outstanding Contribution in Delivery** – Capgemini  [↗️](https://www.credential.net/3a90d821-cbca-4e40-8907-560f2818674c?username=raveendrapujari305208) <br>
+ 
  🌟 **WOW Award** – Capgemini (*Hughes client*)  [↗️](https://www.credential.net/7bd9ca29-344a-49ae-9557-1d050535f798?username=raveendrapujari305208) <br>
+ 
  🥇 **Red Hat Drive Winner** – Infosys (highest certification badges)  [↗️](https://www.credly.com/users/raveendra11/badges##credly)
 
 ---
@@ -39,11 +41,17 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 ## 📜 Certifications  
 
  ✅ Google Cloud Generative AI Leader🆕 [📄](https://www.credential.net/bd8863f3-9589-478c-9a57-20454ff8a515?username=raveendra11) <br> 
+ 
  ✅ Google Cloud Professional Cloud Security Engineer [📄](https://www.credential.net/1729cd68-6c33-44d1-8d85-fce8cab676d6?username=raveendra11) <br> 
+ 
  ✅ Google Cloud Professional Cloud Architect [📄](https://www.credential.net/6f1ac027-f41e-46dd-92de-1e250b012aa5?username=raveendra11) <br> 
+ 
  ✅ Google Cloud Professional Cloud DevOps Engineer [📄](https://www.credential.net/1e39dddb-857a-4c74-9796-34f1861acf9e?username=raveendra11) <br>
+ 
  ✅ Google Cloud Associate Cloud Engineer [📄](https://www.credential.net/4671ab69-e451-4aa1-82d3-5de784e297db?username=raveendra11) <br> 
+ 
  ✅ Google Cloud Digital Leader [📄](https://www.credential.net/591eb3c9-fe58-449b-8322-d51bf749c6c8?username=raveendra11) <br> 
+ 
  ✅ MuleSoft Certified Developer – L1 [📄](https://www.credential.net/6339aba2-5e36-4d6b-b960-7f1b86d39775?username=raveendra11)
  
 
