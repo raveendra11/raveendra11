@@ -8,7 +8,6 @@ Hello, my name is Raveendra Pujari. I'm multi skilled in 𝐉𝐚𝐯𝐚 and �
 
 I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. Additionally, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
 
-Explore my personal project 𝐝𝐨𝐆𝐨𝐨𝐝 at featured section. A charity, aimed at supporting orphan children and elderly by fellow friends. The platform is designed to simplify and encourage donations of goods like clothes, food, and books rather than money. Currently, the project is under active development. Utilized Cloud SQL (MySQL) for data storage, Spring Boot for a RESTful API backend, and ReactJS for the user interface along with Google Cloud Platform for deployment.
 
 ## 🥷 About Me  
 I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
