@@ -4,8 +4,11 @@
 ---
 ## 📘 Summary
 
-I am a Java Spring boot & Cloud DevOps Engineer with over 3 years of professional experience designing, building, and deploying scalable, secure, cloud-native applications. I specialize in Java, Spring Boot, RESTful APIs, and CI/CD pipelines, with deep hands-on expertise across Google Cloud Platform (GCP), Docker, Kubernetes, Jenkins, and Terraform.
+Hello, my name is Raveendra Pujari. I'm multi skilled in 𝐉𝐚𝐯𝐚 and 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in developing and deploying applications using 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐛𝐨𝐨𝐭 and 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialize in building backend services like 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬 using Java Spring boot and deploying & maintaining applications on 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
 
+I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. Additionally, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
+
+Explore my personal project 𝐝𝐨𝐆𝐨𝐨𝐝 at featured section. A charity, aimed at supporting orphan children and elderly by fellow friends. The platform is designed to simplify and encourage donations of goods like clothes, food, and books rather than money. Currently, the project is under active development. Utilized Cloud SQL (MySQL) for data storage, Spring Boot for a RESTful API backend, and ReactJS for the user interface along with Google Cloud Platform for deployment.
 
 ## 🥷 About Me  
 I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
@@ -27,34 +30,8 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 ## 💼 Experience  
 
 **Infosys** — *Senior System Engineer* (Apr 2024 – Jan 2025)  
-- Streamlined CI/CD pipelines for Java-based applications using Cloud Build and Maven, reducing build and deploy times by 20%.
-- Built and managed Docker images and deployed containerized microservices on Google Kubernetes Engine (GKE) Autopilot,
-ensuring scalable and reliable deployments.
-- Provisioned and managed GCP infrastructure and Kubernetes clusters using Terraform, improving deployment consistency and
-reducing manual configuration.
-- Configured and managed GCP networking including VPC, firewall rules, and HTTP(S) Load Balancers to enable secure and
-scalable application access.
-- Implemented Kubernetes Ingress controllers on GKE Autopilot to securely expose applications and manage external traffic routing.
-- Applied IAM best practices including service accounts and least privilege access to improve infrastructure security.
-- Configured Prometheus and Grafana for monitoring GKE Autopilot workloads, enabling real-time metrics visualization,
-performance analysis, and proactive incident detection.
 
 **Capgemini** — *Associate II – Software Engineer* (Aug 2021 – Oct 2023)  
-- Worked on CI/CD pipelines using Jenkins and initially deployed applications on OpenShift; later migrated workloads to GCP.
-- Built and managed Docker images and deployed containerized applications on Google Kubernetes Engine (GKE), improving
-deployment consistency and scalability.
-- Automated infrastructure provisioning and configuration using Terraform and Ansible, improving scalability, repeatability, and
-reducing configuration drift.
-- Configured Kubernetes Ingress controllers and HTTP(S) Load Balancers to enable secure and scalable application access.
-- Worked with GCP networking components including VPC, firewall rules, and secure service connectivity.
-- Maintained Terraform remote backend using Google Cloud Storage, ensuring centralized infrastructure state management.
-- Automated build and deployment workflows using CI/CD pipelines, improving release efficiency and reducing manual effort.
-- Assisted development teams with Docker containerization and deployment of applications on GKE Autopilot.
-- Configured Cloud DNS and integrated domain routing with Load Balancers and Kubernetes services.
-- Monitored infrastructure using Cloud Monitoring and Cloud Logging, helping identify and resolve system issues.
-- Developed automation scripts in Shell to streamline operational and maintenance tasks, reducing manual effort by 40%.
-- Troubleshot infrastructure and deployment issues across cloud and Kubernetes environments, ensuring system stability and
-availability.
 
 **Open Source Developer (GitHub)** — Apache Projects  
 - Contributed bug fixes, refactoring, and docs to **Gravitino, Iceberg, Sedona**.
