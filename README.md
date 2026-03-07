@@ -1,10 +1,10 @@
 # Hello, I'm Raveendra Pujari  
- ### Java Spring boot & Cloud DevOps Engineer • Google Cloud Professional Certified Engineer • 6×GCP • Open Source Developer • Exploring GenAI, K8s • M.S. CS
+ ### Cloud DevOps Engineer • Google Cloud Professional Certified Engineer • 6×GCP • Open Source Developer • Exploring GenAI, K8s • M.S. CS
 
 ---
 ## 🥷 About Me 
 
-I'm multi skilled in 𝐉𝐚𝐯𝐚 and 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in developing and deploying applications using 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐛𝐨𝐨𝐭 and 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialize in building backend services like 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬 using Java Spring boot and deploying & maintaining applications on 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
+Hello, my name is Raveendra Pujari. I'm skilled 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in maintaining and deploying applications using 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialized in using different GCP services popularly 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) and others with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
 
 I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. Additionally, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
 
@@ -14,7 +14,7 @@ Thank you!
 
 ## 📘 Summary 
 
-I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
+I’m a **Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
 
 🎓 Pursuing Master’s in *Computer Science* @ University of South Dakota.  
 
