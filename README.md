@@ -40,6 +40,7 @@ I’m a **Java Spring boot and Cloud DevOps Engineer** passionate about building
 
 ## 📜 Certifications  
 
+ 🔄 Google Cloud Professional Cloud Database Engineer 
  ✅ Google Cloud Generative AI Leader🆕 [📄](https://www.credential.net/bd8863f3-9589-478c-9a57-20454ff8a515?username=raveendra11) <br> 
  ✅ Google Cloud Professional Cloud Security Engineer [📄](https://www.credential.net/1729cd68-6c33-44d1-8d85-fce8cab676d6?username=raveendra11) <br> 
  ✅ Google Cloud Professional Cloud Architect [📄](https://www.credential.net/6f1ac027-f41e-46dd-92de-1e250b012aa5?username=raveendra11) <br> 
