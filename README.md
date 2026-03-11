@@ -60,7 +60,6 @@ I’m a **Cloud DevOps Engineer** passionate about building **scalable, secure, 
 
 </p>
  <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raveendra11&theme=tokyonight" height="180"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raveendra11&theme=tokyonight" height="180"/>
  </p>
 
