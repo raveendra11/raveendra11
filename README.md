@@ -1,20 +1,20 @@
 # Hello, I'm Raveendra Pujari  
- ### Cloud DevOps Engineer • Google Cloud Professional Certified Engineer • 6×GCP • Open Source Developer • Exploring GenAI, K8s • M.S. CS
+ ### Java & Cloud DevOps Engineer • Google Cloud Professional Certified Engineer • 6×GCP • Open Source Developer • Exploring GenAI, K8s • M.S. CS
 
 ---
 ## 🥷 About Me 
 
-Hello, my name is Raveendra Pujari. I'm skilled 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in maintaining and deploying applications using 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialized in using different GCP services popularly 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) and others with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
+Hello, my name is Raveendra Pujari. I'm skilled 𝐉𝐚𝐯𝐚 & 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in developing, maintaining and deploying applications using 𝐒𝐩𝐫𝐢𝐧𝐠 𝐛𝐨𝐨𝐭 and 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialized in creating 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈𝐬 & 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 and deploying through different GCP services popularly, 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) and others with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
 
 I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. Additionally, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
 
-I’m passionate about continuous learning and staying up to date with the latest technologies.
+I’m passionate about continuous learning and staying up to date with the latest technologies as part of it, currently exploring 𝐆𝐞𝐧𝐀𝐈 𝐚𝐧𝐝 𝐊8𝐬 𝐢𝐧-𝐝𝐞𝐞𝐩.
 
 Thank you!
 
 ## 📕 Summary 
 
-I’m a **Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
+I’m a **Java & Cloud DevOps Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
 
 🎓 Pursuing Master’s in *Computer Science* @ University of South Dakota.  
 
