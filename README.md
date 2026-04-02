@@ -1,5 +1,5 @@
 # Hello, I'm Raveendra Pujari  
- ### Java & Cloud DevOps Engineer • Google Cloud Professional Certified Engineer • 6×GCP • Open Source Developer • Exploring GenAI, K8s • M.S. CS
+ ### Java & Cloud DevOps Engineer • Google Cloud Professional Certified Engineer • 6×GCP • Open Source Developer • Exploring GenAI, K8s, Multi-Cloud • M.S. CS
 
 ---
 ## 🥷 About Me 
