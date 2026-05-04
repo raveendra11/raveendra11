@@ -1,5 +1,5 @@
 # Hello, I'm Raveendra Pujari  
- ### Java & Cloud DevOps • 6×GCP Certified Professional • Open Source
+ ### Java & Cloud DevOps • 6×GCP Certified Professional • K8s
 
 ---
 ## 🥷 About Me 
