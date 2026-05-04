@@ -1,5 +1,5 @@
 # Hello, I'm Raveendra Pujari  
- ### Java & Cloud DevOps • 6×GCP Certified Professional • K8s
+ ### Java & Cloud DevOps • 6×GCP Certified Professional • Vertex AI | K8s
 
 ---
 ## 🥷 About Me 
