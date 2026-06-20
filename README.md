@@ -1,5 +1,5 @@
 # Hello, I'm Raveendra P.
- ### Cloud DevOps Engineer • 6×GCP Certified Professional • K8s | O11y | Multi Cloud
+ ### Cloud DevOps Engineer • 6×GCP Certified Professional • K8s | O11y | Cloud Agnostic
 
 ---
 ## 🥷 About Me 
