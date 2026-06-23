@@ -1,4 +1,4 @@
-# Hello, I'm Raveendra P.
+# Hello, I'm Raveendra Pujari
  ### Cloud DevOps Engineer • 6×GCP Certified Professional • K8s | O11y | Cloud Agnostic
 
 ---
@@ -17,7 +17,7 @@ Thank you!
 
 I’m a **Cloud DevOps Engineer** passionate about building and deploying **scalable, secure, and cloud-native applications**.  
 
-🎓 Pursuing Master’s in *Computer Science* @ University of South Dakota.  
+🎓 Master’s graduate in *Computer Science* @ University of South Dakota.  
 
 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
 
@@ -41,7 +41,7 @@ I’m a **Cloud DevOps Engineer** passionate about building and deploying **scal
 
 ## 📜 Certifications  
 
- 🔄 Google Cloud Professional Cloud Database Engineer <br> 
+ 🔄 AWS Certified Cloud Practitioner <br> 
  ✅ Google Cloud Generative AI Leader🆕 [📄](https://www.credential.net/bd8863f3-9589-478c-9a57-20454ff8a515?username=raveendra11) <br> 
  ✅ Google Cloud Professional Cloud Security Engineer [📄](https://www.credential.net/1729cd68-6c33-44d1-8d85-fce8cab676d6?username=raveendra11) <br> 
  ✅ Google Cloud Professional Cloud Architect [📄](https://www.credential.net/6f1ac027-f41e-46dd-92de-1e250b012aa5?username=raveendra11) <br> 
@@ -72,7 +72,7 @@ I’m a **Cloud DevOps Engineer** passionate about building and deploying **scal
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raveendra-eleven/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-    <a href="https://raveendrapujari11.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff5722?logo=firefox&logoColor=white&style=for-the-badge" /></a>
+    <a href="https://raveendrapujari11.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff5722?logo=firefox&logoColor=white&style=for-the-badge" /><--</a>
   <a href="https://raveendrapujari11.github.io/portfolio/assets/Raveendra_Pujari_Resume_CloudDevOps.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?logo=googledocs&logoColor=white&style=for-the-badge" />
 </a>
