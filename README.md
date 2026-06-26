@@ -17,7 +17,7 @@ Thank you!
 
 I’m a **Cloud DevOps Engineer** passionate about building and deploying **scalable, secure, and cloud-native applications**.  
 
-🎓 Master’s graduate in *Computer Science* @ University of South Dakota.  
+🎓 Master’s graduate in *Computer Science* from the University of South Dakota.  
 
 🕵️‍♂️ **3+ years professional experience** at **Infosys** & **Capgemini**.  
 
