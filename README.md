@@ -1,5 +1,5 @@
 # Hello, I'm Raveendra Pujari
- ### Cloud DevOps Engineer • 6×GCP Certified Professional • K8s | O11y | Cloud Agnostic
+ ### Cloud DevOps Engineer • 6×GCP • K8s | O11y | Cloud Agnostic
 
 ---
 ## 🥷 About Me 
