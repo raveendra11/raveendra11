@@ -50,22 +50,6 @@ I’m a **Cloud DevOps Engineer** passionate about building and deploying **scal
  ✅ Google Cloud Digital Leader [📄](https://www.credential.net/591eb3c9-fe58-449b-8322-d51bf749c6c8?username=raveendra11) <br> 
  ✅ MuleSoft Certified Developer – L1 [📄](https://www.credential.net/6339aba2-5e36-4d6b-b960-7f1b86d39775?username=raveendra11)
  
-
----
-
- ### 📊 GitHub Summary
-
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=raveendra11&show_icons=true&theme=radical height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=raveendra11&theme=tokyonight&hide_border=true" height="160"/>
-
-</p>
- <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raveendra11&theme=tokyonight" height="180"/>
- </p>
-
-
- 
 ---
 
 ## 🔌Connect with Me  
