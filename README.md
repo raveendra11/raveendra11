@@ -4,7 +4,7 @@
 ---
 ## 🥷 About Me 
 
-Hello, my name is Raveendra Pujari. I'm skilled 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience developing, maintaining and deploying applications on 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialized in  deploying through different GCP services popularly, 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) and others with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
+Hello, my name is Raveendra Pujari. I'm skilled 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience maintaining and deploying applications on 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialized in  deploying through different GCP services popularly, 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) and others with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
 
 I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. Additionally, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
 
