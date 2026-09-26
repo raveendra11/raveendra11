@@ -24,7 +24,7 @@ I’m a **Java & Cloud DevOps Engineer** passionate about developing, deploying 
 
 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
 
-‪‪❤️ Passionate about leveraging tech for edu impact → built [Learnix](https://learninx.site)** a Linux learning platform.  
+‪‪❤️ Passionate about leveraging tech for edu impact → built [Learnix](https://learninx.site) a Linux learning platform.  
 
 ---
 
