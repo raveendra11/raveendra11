@@ -1,21 +1,20 @@
 # Hello, I'm Raveendra Pujari
- ### Cloud DevOps Engineer • 6×GCP • K8s | O11y | Google Cloud
+ ### Java & Cloud DevOps Engineer • 6×GCP • K8s | O11y | Google Cloud
 
 ---
 ## 🥷 About Me 
 
-Hello, my name is Raveendra Pujari. I'm skilled 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience maintaining and deploying applications on 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialized in  deploying through different GCP services popularly, 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) and others with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
+Hello, my name is Raveendra Pujari. I'm skilled on 𝐉𝐚𝐯𝐚 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 and 𝐂𝐥𝐨𝐮𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with experience in designing, developing, maintaining and deploying applications using 𝐒𝐩𝐫𝐢𝐧𝐠 𝐛𝐨𝐨𝐭 and 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦. I specialized in deploying through different 𝐆𝐂𝐏 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 popularly, 𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐄𝐧𝐠𝐢𝐧𝐞(𝐆𝐊𝐄) and others with best practices. I have a good foundational understanding in 𝐎𝐫𝐚𝐜𝐥𝐞 𝐒𝐐𝐋 for databases and 𝐒𝐡𝐞𝐥𝐥 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠, which I use for devops and automate processes to improve operational efficiency.
 
-I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. Additionally, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
+In addition, I'm 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 with hands-on experience with Google Cloud Platform (GCP), leveraging its services to deploy, manage, and scale applications in cloud environments. With that, I hold 𝟔𝐱 𝐆𝐂𝐏 active certifications ranging from foundational to professional levels.
 
-I’m passionate about continuous learning and staying up to date with the latest technologies as part of it, currently exploring 𝐆𝐞𝐧𝐀𝐈, 𝐊8𝐬 and 𝐌𝐮𝐥𝐭𝐢-𝐂𝐥𝐨𝐮𝐝 in-deep.
-
+Together, Let's develop systems and make reliable.
 
 Thank you!
 
 ## 📕 Summary 
 
-I’m a **Cloud DevOps Engineer** passionate about deploying and maintaining **scalable, secure, and cloud-native applications**.  
+I’m a **Java & Cloud DevOps Engineer** passionate about developing, deploying and maintaining **scalable, secure, and cloud-native applications**.  
 
 🎓 Master’s graduate in *Computer Science* from the University of South Dakota.  
 
@@ -25,7 +24,7 @@ I’m a **Cloud DevOps Engineer** passionate about deploying and maintaining **s
 
 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
 
-‪‪❤️ Passionate about leveraging tech for social impact → built **[doGood](https://raveendra11.github.io/doGood-web/ and [Learnix](https://learninx11.github.io/Learninx/)** charity platform and a Linux learning platform.  
+‪‪❤️ Passionate about leveraging tech for social impact → built **[doGood](https://raveendra11.github.io/doGood-web/ and [Learnix](https://learninx.site)** charity platform and a Linux learning platform.  
 
 ---
 
@@ -56,7 +55,7 @@ I’m a **Cloud DevOps Engineer** passionate about deploying and maintaining **s
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raveendra-eleven/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-    <a href="https://raveendra11.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff5722?logo=firefox&logoColor=white&style=for-the-badge" /></a>
+    <a href="https://raveendra11.online"><img src="https://img.shields.io/badge/Portfolio-ff5722?logo=firefox&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/raveendra11/portfolio/blob/main/assets/Raveendra_Pujari_Resume_CloudDevOps.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?logo=googledocs&logoColor=white&style=for-the-badge" />
 </a>
