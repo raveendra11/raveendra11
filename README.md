@@ -24,7 +24,7 @@ I’m a **Java & Cloud DevOps Engineer** passionate about developing, deploying 
 
 🤝 Contributor to **Apache Open Source** projects (*Gravitino, Iceberg, Sedona*).  
 
-‪‪❤️ Passionate about leveraging tech for social impact → built **[doGood](https://raveendra11.github.io/doGood-web/ and [Learnix](https://learninx.site)** charity platform and a Linux learning platform.  
+‪‪❤️ Passionate about leveraging tech for edu impact → built [Learnix](https://learninx.site)** a Linux learning platform.  
 
 ---
 
